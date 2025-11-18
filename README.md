@@ -37,7 +37,7 @@ I am currently learning **Web Development** and building projects to improve my 
 
 * **Facebook:** https://www.facebook.com/isaruhulla.18/
 * **GitHub:** https://github.com/ISA-RUHULLA
-* **LinkedIn:** https://www.linkedin.com/in/isa-ruhullah-a66b57368/
+* **LinkedIn:** https://www.linkedin.com/in/isa-ruhulla/
 
 ---
 
