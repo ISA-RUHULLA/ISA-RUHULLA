@@ -4,6 +4,11 @@
 
 <p align="center">MARN Stack Developer | Full Stack Web Enthusiast | Learner | Tech Enthusiast</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00C2FF&width=700&lines=Learning+React+and+Next.js;Building+Cool+Projects;Exploring+New+Tech" alt="Typing SVG"/>
+</p>
+
+
 ###
 
 <h2 align="left">👨‍💻 About me</h2>
@@ -21,34 +26,19 @@
 * **Others:** Git, GitHub, VS Code, REST APIs
 ---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,git,github,tailwind,firebase,mongodb" />
+</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-</div>
-
-###
 
 ## 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **GreenNest** | A modern eco-friendly platform with clean UI and smooth frontend experience | MERN, Tailwind CSS | 
-| **Altrion Platform** | A professional full MERN platform with elegant UI and powerful backend logic | MERN, Firebase, Tailwind | 
+| **Dragon-News** |Dragon News is a modern, responsive news portal where users can read the latest news articles across different categories. The project is built to provide an intuitive and user-friendly experience for readers | MERN, Tailwind CSS | 
+| **EduNest** | EduNest is a full-stack online learning platform where users can explore, enroll, and manage courses. Instructors can add, update, and manage their courses while students can browse and enroll seamlessly. | MERN, Firebase, Tailwind |
+| **App-Store** | This project is a mini App Directory — similar to Google Play Store or App Store — built using React. | MERN, Firebase, Tailwind |
 
 ---
 
@@ -60,25 +50,11 @@
 
 <p align="left"></p>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ISA-RUHULLA/ISA-RUHULLA/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
-
----
+## 🔹 Contribution Graph 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISA-RUHULLA&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Activity&bg_color=0D1117" height="120"/>
+</p>
 
 ## 📫 Connect With Me
 
